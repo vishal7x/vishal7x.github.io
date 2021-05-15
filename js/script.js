@@ -15,7 +15,7 @@ $('#slides').superslides({
 	});
 
   var typed = new Typed(".typed", {
-	strings: ["Web-App Developer", "Student.","Tech Enthusiast"],
+	strings: ["Web-App Developer","Innovator", "Tech Enthusiast"],
 	typeSpeed: 70,
 	loop: true,
 	startDelay: 1000,
