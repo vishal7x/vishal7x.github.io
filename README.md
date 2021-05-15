@@ -1,2 +1,2 @@
-# vishly.github.io
+# vishalbio.me
 A website resume
